@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GetGithubArtifactStorage": {
+      "commandName": "Project",
+      "commandLineArgs": "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\r\nboclifton-MSFT\r\nblog-demo-api"
+    }
+  }
+}
