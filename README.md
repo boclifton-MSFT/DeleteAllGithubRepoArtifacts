@@ -12,6 +12,6 @@ I wrote this script to allow some flexibility in the operation by allowing the u
 3. Run the .exe file from a Terminal window with arguments in this order:
     - Personal Access Token
     - Github User Name (not email address, mine is boclifton-MSFT)
-    - (optional) the name of a single repo to delete artifacts from
+    - (optional) the name of a single repo to delete artifacts from. If this is omitted, the script will target **_every_** repo and delete **_all_** your artifacts.  The script will prompt to confirm before deleting from all repos.
 4. ???
 5. Profit!
