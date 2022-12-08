@@ -12,7 +12,7 @@
 	</ItemGroup>
 
 	<Target Name="PostBuild" AfterTargets="PostBuildEvent">
-	  <Exec Command="copy .\bin\Debug\netcoreapp3.1\*.exe .\" />
+	  <Exec Command="copy $(OutDir)*.exe $(ProjectDir)" />
 	</Target>
 
 </Project>
