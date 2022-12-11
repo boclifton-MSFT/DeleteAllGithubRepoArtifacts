@@ -9,7 +9,7 @@ I wrote this script to allow some flexibility in the operation by allowing the u
 ## Instructions
 1. Create a [Github Personal Access Token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) with 'repo' permission
 2. Clone the repo to your local machine
-3. Build the project and publish, either with Visual Studio (right click/publish) or `dotnet publish`
+3. Build the project and publish, either with Visual Studio (right click the project and select 'Publish') or use the `dotnet publish` command
 4. Run the .exe file in the `/publish` directory from a Terminal window with arguments in this order:
     - Personal Access Token
     - Github User Name (not email address, mine is boclifton-MSFT)
