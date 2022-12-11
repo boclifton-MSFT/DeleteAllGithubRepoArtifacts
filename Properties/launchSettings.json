@@ -2,7 +2,7 @@
   "profiles": {
     "GetGithubArtifactStorage": {
       "commandName": "Project",
-      "commandLineArgs": "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\r\nboclifton-MSFT\r\nblog-demo-api"
+      "commandLineArgs": "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\r\ndochoss"
     }
   }
 }
